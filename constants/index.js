@@ -17,5 +17,6 @@ export const weatherImages = {
     'Moderate or heavy rain shower': require('../assets/images/heavyrain.png'),
     'Moderate or heavy rain with thunder': require('../assets/images/heavyrain.png'),
     'Mist': require('../assets/images/mist.png'),
+    'Light drizzle': require('../assets/images/mist.png'),
     'other': require('../assets/images/moderaterain.png')
 }
